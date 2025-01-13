@@ -1,6 +1,6 @@
 # Base Converter Tool
 
-A simple command-line tool written in Python to convert a single input or a list of input values into hexadecimal, decimal, and binary base values.
+A simple command-line tool written in Python and C++ to convert a single input or a list of input values into hexadecimal, decimal, and binary base values.
 
 Can be used with single input value:
 ```bash
